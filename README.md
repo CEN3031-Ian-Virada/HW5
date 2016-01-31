@@ -1,3 +1,8 @@
+Link to diagram:
+https://uflorida-my.sharepoint.com/personal/dsmos_ufl_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=ExquMnbj0R3Vcp%2fgnfNH31itd6Q6DPfBQswlcuc44sU%3d&docid=02eee4a9beb1d4740ac0f9d7d718dd1fa
+
+
+
 # Assignment 5: Using our server API and implementing state on the front-end
 In this final assignment, we will work on integrating the back-end with our Angular code, and also making the client-side code more modular by introducing the concept of state. 
 
